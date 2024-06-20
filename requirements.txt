@@ -1,4 +1,4 @@
-streamlit
-numpy
-opencv-python-headless
-cvzone
+streamlit==1.10.0
+numpy==1.21.0
+opencv-python-headless==4.5.3.56
+cvzone==1.5.1
